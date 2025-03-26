@@ -337,19 +337,19 @@ export default {
         localStorage.removeItem('user');
         this.isLoggedIn = false;
         alert('Đăng xuất thành công!');
-        this.$router.push('/home');
+        this.$router.push('/');
         window.location.reload();
 
   },
     toggleDropdown() {
       this.showDropdown = !this.showDropdown;
     },
-     handleOutsideClick(event) {
-      const dropdown = this.$el.querySelector(".dropdown-menu-profile");
-      if (dropdown && !dropdown.contains(event.target)) {
-        this.showDropdown = false;
-      }
-    },
+    //  handleOutsideClick(event) {
+    //   const dropdown = this.$el.querySelector(".dropdown-menu-profile");
+    //   if (dropdown && !dropdown.contains(event.target)) {
+    //     this.showDropdown = false;
+    //   }
+    // },
     checkLoginStatus() {
     const token = localStorage.getItem('token');
     const user = localStorage.getItem('user');

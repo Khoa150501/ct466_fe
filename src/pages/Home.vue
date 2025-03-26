@@ -175,23 +175,23 @@
         <h1 style="font-family: Macan, Helvetica Neue, Helvetica, Arial, sans-serif; color: #404145; margin-bottom: 10px;">Được thực hiện bởi Website</h1>
 <div class="image-grid mt-5">
     <div class="image-container image-large">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 1">
+        <img src="/src/assets/img/category/Design/1-thiet-ke-noi-that-phong-cach-contemporary.jpg" alt="Image 1">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Thiết kế nội thất nhà đẹp...</p>
         </div>
         <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 2">
+        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/a9354a2580dbeb20f59e496496ca3eb5-1742214808/Hawaiimusician%20-%20Makapuu%20beach.png" alt="Image 2" style="height: 188px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 1</p>
         </div>
         <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container image-height">
-        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/0ceadaa11c4222210f993a44fbb5b711-1730750780/gabrielberntson.jpg" alt="Image 3">
+        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/c8df278c1436e5a0f08bb9f74b0b40af-1739836928/char_534_valic_.jpg" alt="Image 3">
           <div class="overlay">
         <p class="image-text">Lập trình web</p>
         </div>
@@ -199,31 +199,31 @@
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 4">
+        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/25506c800c0947dcc2fbab66f2354b67-1742189643/807%20BEDROOM%20V1.png" alt="Image 4" style="height: 188px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 1</p>
         </div>
           <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container image-large">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 5">
+        <img src="/src/assets/img/category/Design/thiet-ke-logo.jpg" alt="Image 5" style="height: 387px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 2</p>
         </div>
         <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 6">
+        <img src="https://glints.com/vn/blog/wp-content/uploads/2022/11/Di%CC%A3nh-hi%CC%80nh-phong-ca%CC%81ch-thie%CC%82%CC%81t-ke%CC%82%CC%81-Animation-cu%CC%89a-rie%CC%82ng-mi%CC%80nh-1024x602.jpg" alt="Image 6" style="height: 188px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 1</p>
         </div>
          <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container image-height">
-        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/0ceadaa11c4222210f993a44fbb5b711-1730750780/gabrielberntson.jpg" alt="Image 7">
+        <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/5f5876f95b042a021097aae1f26d5d3e-1741724166/castle.png" alt="Image 7">
           <div class="overlay">
         <p class="image-text">Lập trình web</p>
         </div>
@@ -231,25 +231,25 @@
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 8">
+        <img src="https://haycafe.vn/wp-content/uploads/2022/05/Hinh-nen-cay-xanh-thien-nhien.jpg" alt="Image 8" style="height: 188px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 1</p>
         </div>
           <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container image-large">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 9">
+        <img src="/src/assets/img/category/Design/mau-nha-dep-anh-dai-dien-2024-scaled.jpg" alt="Image 9">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 2</p>
         </div>
         <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>
     </div>
     <div class="image-container">
-        <img src="/src/assets/img/poppular/lap-trinh-web-20230105144952-404948.jpg" alt="Image 10">
+        <img src="https://xhomesg.com.vn/wp-content/uploads/2024/10/biet-thu-hien-dai-lo-goc-2-mat-tien-2-scaled.jpg" alt="Image 10" style="height: 188px;">
           <div class="overlay">
-        <p class="image-text">Lập trình web</p>
+        <p class="image-text">Lập trình web 1</p>
         </div>
          <i class="fas fa-heart heart-icon"></i>
         <i class="fas fa-ellipsis-v menu-icon"></i>

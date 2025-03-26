@@ -12,6 +12,10 @@ import WritingTranslation from "@/pages/category/WritingTranslation.vue";
 import VideoAnimation from "@/pages/category/VideoAnimation.vue";
 import DigitalMarketing from "@/pages/category/DigitalMarketing.vue";
 import Consulting from "@/pages/category/Consulting.vue";
+import CreateProfile from "@/pages/CreateProfile.vue";
+import CreateProfile1 from "@/pages/CreateProfile1.vue";
+import ResultProfile from "@/pages/ResultProfile.vue";
+
 
 const routes = [
   {
@@ -23,6 +27,21 @@ const routes = [
     path: "/profile",
     name: "Profile",
     component: Profile , 
+  },
+  {
+    path: "/createProfile",
+    name: "CreateProfile",
+    component: CreateProfile,
+  },
+   {
+    path: "/createProfile1",
+    name: "CreateProfile1",
+    component: CreateProfile1,
+  },
+     {
+    path: "/resultProfile",
+    name: "ResultProfile",
+    component: ResultProfile,
   },
     {
     path: "/editprofile",
